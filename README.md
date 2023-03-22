@@ -1,2 +1,2 @@
-# DevOpsAssignmentRepo
-This is a repo for my DevOps Assignment to hold the source code
+# DevOps-Assignment-Course-Registration-
+Example code for the Dundee University Dev ops assignment 
