@@ -34,6 +34,8 @@ public class CourseRegistration {
         return id;
     }
 
+    //comment to show an example commit
+
     public void setId(int id) {
         this.id = id;
     }
